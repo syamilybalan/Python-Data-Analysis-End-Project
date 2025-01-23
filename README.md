@@ -7,6 +7,8 @@
 Corrected the "Height" column by replacing it with random values between 150 cm and 180 cm to maintain consistency.
 
 **Analysis Tasks:**
+
+
 1.Team distribution and percentage split.
 2.Employee segregation by position.
 3.Identification of the predominant age group.
